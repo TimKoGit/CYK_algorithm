@@ -1,1 +1,0 @@
-# CYK_algorithm
